@@ -11,7 +11,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/tealium/tealium-swift", .upToNextMajor(from: "2.16.0")),
-        .package(url: "https://github.com/braze-inc/braze-swift-sdk", .upToNextMajor(from: "11.0.0"))
+        .package(url: "https://github.com/braze-inc/braze-swift-sdk", .upToNextMajor(from: "13.0.0"))
     ],
     targets: [
         .target(

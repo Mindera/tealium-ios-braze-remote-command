@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/braze-inc/braze-swift-sdk",
         "state": {
           "branch": null,
-          "revision": "5bf78ca1f37c4824bb37ee8dd66ed1b17b8a45ff",
-          "version": "9.3.0"
+          "revision": "99e270648a03bc11595d4faf85ae1068fc9740b9",
+          "version": "13.0.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
         "state": {
           "branch": null,
-          "revision": "b8523c1642f3c142b06dd98443ea7c48343a4dfd",
-          "version": "5.19.3"
+          "revision": "b62cb63bf4ed1f04c961a56c9c6c9d5ab8524ec6",
+          "version": "5.21.1"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/tealium/tealium-swift",
         "state": {
           "branch": null,
-          "revision": "384536125778089c6144ea22b0a88f223f268b87",
-          "version": "2.13.0"
+          "revision": "0dad26baa86977fa9464494beac4c82f75c1b1ff",
+          "version": "2.18.0"
         }
       }
     ]
